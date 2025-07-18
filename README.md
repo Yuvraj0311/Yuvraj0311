@@ -1,27 +1,31 @@
 # 👋 Hey, I'm Yuvraj
 
 ### 🧠 Teaching machines to write, think, and sometimes hallucinate.  
-⚔️ Knight @ [LeetCode](https://leetcode.com/) | Intern @ MTSL (AI/ML)  
-Exploring LLMs, GenAI, Transformers | Building with Python & C++
+⚔️ Knight @ [LeetCode](https://leetcode.com/) | Exploring LLMs, GenAI, Transformers | Building with Python & C++
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 What I Work With
+
 **Languages**: C++, Python  
-**Libraries/Tools**: OpenAI API, Transformers, Pandas, NumPy, Matplotlib  
-**Currently exploring**: LangChain, Streamlit, Hugging Face 🤗
+**AI/ML Libraries**: Frontier LLM APIs, Transformers, LangChain, Hugging Face 🤗  
+**Data Tools**: Pandas, NumPy, Matplotlib, Seaborn  
+**Frameworks**: Streamlit  
+**Workflow**: Git, VS Code, Jupyter, Google Colab
 
 ---
 
 ## 🏹 Competitive Programming
+
 - 🧠 Knight at Leetcode  
 - Solving DSA one edge case at a time  
 - Comfortable with recursion, DP, and graphs
 
 ---
 
-## 📫 Reach Me
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername) • [Portfolio](https://yourportfolio.com)
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/yuvraj-singh-sarao-52800b287/)
 
 ---
 
