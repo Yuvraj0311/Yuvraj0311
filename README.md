@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey, I'm Yuvraj
 
-<!--
-**Yuvraj0311/Yuvraj0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Teaching machines to write, think, and sometimes hallucinate.  
+⚔️ Knight @ [LeetCode](https://leetcode.com/) | Intern @ MTSL (AI/ML)  
+Exploring LLMs, GenAI, Transformers | Building with Python & C++
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages**: C++, Python  
+**Libraries/Tools**: OpenAI API, Transformers, Pandas, NumPy, Matplotlib  
+**Currently exploring**: LangChain, Streamlit, Hugging Face 🤗
+
+---
+
+## 🏹 Competitive Programming
+- 🧠 Knight at Leetcode  
+- Solving DSA one edge case at a time  
+- Comfortable with recursion, DP, and graphs
+
+---
+
+## 📫 Reach Me
+[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername) • [Portfolio](https://yourportfolio.com)
+
+---
+
+> “Currently whispering to LLMs.”
