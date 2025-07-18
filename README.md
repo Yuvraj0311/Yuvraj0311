@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yuvraj
+## 👋 Hey, I'm Yuvraj
 
 ### 🧠 Teaching machines to write, think, and sometimes hallucinate.  
 ⚔️ Knight @ [LeetCode](https://leetcode.com/) | Exploring LLMs, GenAI, Transformers | Building with Python & C++
@@ -29,4 +29,4 @@
 
 ---
 
-> “Currently whispering to LLMs.”
+**_“Currently whispering to LLMs.”_**
