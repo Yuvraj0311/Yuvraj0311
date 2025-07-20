@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building: **AI-powered tools and Data Science Projects
+- 🔭 Currently building: **AI-powered tools and Data Science Projects**
 - 🤖 Exploring: **LLMs**, **Transformers**, **LangChain**, and **GenAI frameworks**
 - ⚔️ Competitive Programmer: **Knight @ [Leetcode](https://leetcode.com/u/yuvraj0311/)**
 
